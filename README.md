@@ -1,2 +1,2 @@
 # CN_NUMBER_NIM_GAME
-Using python web sockets and Tkinter
+Developed a 2 player Number Nim game using python web sockets and Tkinter as part of our computer networks project.
